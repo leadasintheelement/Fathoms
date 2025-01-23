@@ -1,4 +1,6 @@
-![Fathoms](https://github.com/user-attachments/assets/15714884-4722-4c51-b731-ac3f2e68e69c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15714884-4722-4c51-b731-ac3f2e68e69c" />
+</p>
 
 Fathoms is a complex extension of the dark contents of the sea in Minecraft. Discover overhauled fishing, a vast array of deep sea monstrosities, new oceanic environments, and uncover the mysterious story of the long gone legends that rest below the waves...
 
