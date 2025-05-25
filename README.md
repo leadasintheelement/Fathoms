@@ -6,7 +6,7 @@ Fathoms is a datapack focused on a complex expansion of the seas of Minecraft, b
 As of now, Fathoms contains:
 - 31 fish found in a variety of biomes and conditions
 - A complete overhaul of the fishing loot table, including a new bait system
-- 2 interactive blocks to expand, diversity, and automate fishing
+- 2 interactive blocks to expand, diversify, and automate fishing
 - A thunderous ocean mini-biome complete with shocking new hazards
 - A dark ritual system, empowering you on and off the water
 - A vast collection of trinkets and novelty items found at sea
