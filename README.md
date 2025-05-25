@@ -16,11 +16,11 @@ As of now, Fathoms contains:
 As a creative decision, Fathoms' wiki will not be maintained by developers. It may contain some information provided by the community, but it is not a 100% reliable source. If you are having trouble with doing something as the wiki instructs, assume it is outdated. **All of Fathoms' content has been precisely designed to be discovered ingame via advancements, the recipe book, and diagetic clues. Additonally, Fathoms is best enjoyed blind...**
 
 # About Compatibility
-Fathoms is inherently incompatible with likely all mods and datapacks which modify the fishing loot table in any way. Compatibility is attempted with [The Creeper's Code](https://modrinth.com/datapack/the-creepers-code), but Fathoms will need to loaded after TCC. This can be done by running these commands in order:
+Fathoms is inherently incompatible with likely all mods and datapacks which modify the fishing loot table in any way. Compatibility is attempted with [The Creeper's Code](https://modrinth.com/datapack/the-creepers-code), but Fathoms will need to loaded after compatible packs. This can be done by running these commands in order:
 
 `/datapack disable <Fathoms>`
 
-`/datapack enable <Fathoms> after <The Creeper's Code>`
+`/datapack enable <Fathoms> after <Other Compatible Packs>`
 
 Fathoms does not currently support compatibility with any other mods or datapacks in this way, and requests for such compatibility will be rejected. It is complicated, sorry.
 
