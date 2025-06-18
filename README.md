@@ -1,16 +1,18 @@
-![Fathoms title art](https://cdn.modrinth.com/data/cached_images/41044b25a618b88da6394947d359046c499ccb24.png)
+![Fathoms Title Art](https://github.com/user-attachments/assets/ca00695b-13c5-4153-ae4e-1e344b4ff055)
 
 Fathoms is a datapack focused on a complex expansion of the seas of Minecraft, bringing a vast array of new mechanics, unique collectables, and macabre themes. Inspired by [Dredge](https://www.dredge.game/) as well as eldritch horror classics, it conjures an air of mystery leaving you wanting to dredge the depths for more.
 
 # Contents
 As of now, Fathoms contains:
-- 31 fish found in a variety of biomes and conditions
+- 56 fish found in a variety of biomes and conditions
 - A complete overhaul of the fishing loot table, including a new bait system
 - 2 interactive blocks to expand, diversify, and automate fishing
 - A thunderous ocean mini-biome complete with shocking new hazards
 - A dark ritual system, empowering you on and off the water
 - A vast collection of trinkets and novelty items found at sea
+- Full Peaceful mode support!
 - _Countless mysteries..._
+- And more!
 
 # Note on the Wiki
 As a creative decision, Fathoms' wiki will not be maintained by developers. It may contain some information provided by the community, but it is not a 100% reliable source. If you are having trouble with doing something as the wiki instructs, assume it is outdated. **All of Fathoms' content has been precisely designed to be discovered ingame via advancements, the recipe book, and diagetic clues. Additonally, Fathoms is best enjoyed blind...**
